@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #263238;
+    margin-bottom: 4px;
+    padding: 9px 20px 8px;
+    border-radius: 4px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+
+button {
+    background: #263238;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
+
+ul {
+    margin-top: 20px;
+    margin-left: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+    color: #263238;
+    ;
+}
+
+
+/* CSS */
+
+.button-31,
+.button-32,
+.button-33,
+.button-34 {
+    border: none;
+    background-color: #263238;
+    border-radius: 4px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Farfetch Basis", "Helvetica Neue", Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 0.5;
+    margin: 0;
+    max-width: none;
+    min-height: 38px;
+    min-width: 3px;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 8px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+}
+
+.button-31:hover {
+    opacity: .75;
+}
+
+.button-32 {
+    background: #ff1744;
+}
+
+.button-36 {
+    background: #ff1744;
+    border-radius: 50%;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    padding: 5px 8px;
+    border: none;
+    font-weight: bold;
+}
+
+.button-33 {
+    background: #00e676;
+}
+
+.button-34 {
+    background: #2196f3;
+}
